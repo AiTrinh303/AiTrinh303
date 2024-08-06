@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ai
 - 🌍 I'm based in Munich, Germany
 - 🖥️ See my portfolio at [Porfolio](https://porfolio-ai.onrender.com/)
-- 🌱 I’m currently learning Back-end technologies
+- 🌱 I’m currently learning Backend
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/nguyen-trong-ai-trinh-5aa2711a9/)
